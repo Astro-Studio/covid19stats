@@ -1,0 +1,14 @@
+body {
+  background: rgba(24, 41, 58, 1);
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background: linear-gradient(
+    135deg,
+    rgba(34, 40, 53, 1) 1%,
+    rgba(24, 41, 58, 1) 100%
+  );
+}
