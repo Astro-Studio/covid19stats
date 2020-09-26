@@ -1,6 +1,6 @@
 # COVIDWATCH BY ASTROSTUDIO.
 
-# Big thanks to JavaScriptMastery for the help.
+# Big thanks to JSM for the help.
 
 API used: https://covid19.mathdro.id/api
 
